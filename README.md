@@ -7,7 +7,6 @@ Basic Apex external cheat
 <br />
 . No Recoil
 
-<br />
 Im releasing it for people that want cheats or need a source.
 <br />
 Do what you want with it, idgaf. ;)
